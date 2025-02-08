@@ -38,6 +38,12 @@
 	--button-border:1px solid #5A2FBA;
 }
 
+.button.button-default-full {
+	--button-text:#fff;
+	--button-background:#5A2FBA;
+	--button-border:1px solid #fff;
+}
+
 /* Amazon */
 .button-amazon {
 	--button-text:#000000;
