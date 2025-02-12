@@ -313,11 +313,11 @@ a:hover {
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 nav {
 	margin:var(--spacing-l) 0;
-	text-align:left;
+	text-align:center;
 }
 section {
 	margin:var(--spacing-xl) 0;
-	text-align:left;
+	text-align:center;
 }
 h2 {
 	font-size:var(--scale-3);
