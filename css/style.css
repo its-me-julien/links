@@ -224,7 +224,7 @@ a:hover {
  	min-height:3rem;                /* 48px */
   	padding:0.75rem 1rem;         	/* 12px ; 16px */
   	font-size:1.125rem;           	/* 18px */
-  	font-weight:700;
+  	font-weight:400;
 	text-decoration:none;
 	white-space:normal;
   	background-color:var(--button-background,transparent);
