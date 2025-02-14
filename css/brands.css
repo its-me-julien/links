@@ -35,13 +35,13 @@
 .button.button-default {
 	--button-text:#000000;
 	--button-background:#ffffff;
-	--button-border:1px solid #5A2FBA;
+	--button-border:1px solid #FFF533;
 }
 
 .button.button-default-full {
-	--button-text:#fff;
-	--button-background:#5A2FBA;
-	--button-border:1px solid #fff;
+	--button-text:#000000;
+	--button-background:#FFF533;
+	--button-border:1px solid #000000;
 }
 
 /* Amazon */
