@@ -56,6 +56,14 @@
 	--button-background:#25D1DA;
 }
 
+/* Amazon Music */
+.button-marketplace {
+	--button-text:#000000;
+	--button-background:#f7f7f7;
+}
+
+
+
 /* Apple App Store */
 .button-appstore {
 	--button-text:#FFFFFF;
