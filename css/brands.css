@@ -60,6 +60,7 @@
 .button-marketplace {
 	--button-text:#000000;
 	--button-background:#f7f7f7;
+	--button-border:1px solid #212121;
 }
 
 
